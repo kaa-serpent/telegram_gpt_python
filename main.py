@@ -5,11 +5,11 @@ import threading
 
 
 # OpenAI secret Key
-API_KEY = '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'
+API_KEY = ''
 # Models: text-davinci-003,text-curie-001,text-babbage-001,text-ada-001
 MODEL = 'text-davinci-003'
 # Telegram secret access bot token
-BOT_TOKEN = '6094746783:AAEgt5ArOvTo45gHTTvsc7nyi44eViZxxrY'
+BOT_TOKEN = ''
 # Defining the bot's personality using adjectives
 #BOT_PERSONALITY = 'laid-back, friendly, and helpful'
 BOT_PERSONALITY = 'friendly'
